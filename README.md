@@ -24,14 +24,14 @@ See pinned repos.
   <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat&logo=git&logoColor=orange" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat&logo=docker&logoColor=blue" /> 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat&logo=heroku&logoColor=pink" /> 
-  <img alt="java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat&logo=java&logoColor=orange" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat&logo=java&logoColor=orange" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat&logo=javascript&logoColor=yellow" /> 
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=orange" /> 
 </p>
 
 ---  
 
-![wndenis github stats](https://github-readme-stats.vercel.app/api?username=wndenis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
+![wndenis github stats](https://github-readme-stats.vercel.app/api?username=wndenis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wndenis)](https://github.com/wndenis/)   -->
 
 
