@@ -20,7 +20,7 @@ See pinned repos.
   <img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat&logo=python&logoColor=yellow" /> 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat&logo=postgresql&logoColor=blue" /> 
   <img alt="Django" src="https://img.shields.io/badge/-Flask-1a1a1a?style=flat&logo=flask&logoColor=white" /> 
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-1a1a1a?style=flat-square&logo=c%20sharp&logoColor=239120" /> 
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-1a1a1a?style=flat&logo=c%20sharp&logoColor=239120" /> 
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-1a1a1a?style=flat&logo=unity&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat&logo=git&logoColor=orange" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat&logo=docker&logoColor=blue" /> 
