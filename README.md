@@ -8,9 +8,10 @@ Briefly:
 
 #### I love:
 * 🐍 Python
+* ☕ Kotlin
 * 📊 Visualizations
 * 🥽 VR
-* ☕ Coffee
+* 🔋 Coffee
 
 #### Recent projects:
 See pinned repos.
