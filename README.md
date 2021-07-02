@@ -1,6 +1,7 @@
 ### Hi there 👋 (wip)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wndenis.wndenis)  
 My name is Denis, and I'm still working on filling out this page 🤔
+Participant of Guinness World Record event  
 
 Briefly:  
 2016-2020 RTU MIREA, bachelor degree 🎓  
