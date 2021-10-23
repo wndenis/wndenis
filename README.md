@@ -1,23 +1,28 @@
-### Hi there 👋 (wip)
+### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wndenis.wndenis)  
-My name is Denis, and I'm still working on filling out this page 🤔
-Participant of Guinness World Record event  
+My name is Denis, and I'm still working on filling out this page 🤔  
+Gonna make something significant to make the world better.
 
 Briefly:  
+2020-2022 HSE, studying for a master's degree 🎓🎓  
 2016-2020 RTU MIREA, bachelor degree 🎓  
-2020-2022 HSE, studying for a master's degree 🚀  
+Participant of Guinness World Record event  
 
-#### I love:
+#### I do love:
 * 🐍 Python
 * ☕ Kotlin
-* 📊 Visualizations
 * 🥽 VR
-* 🔋 Coffee
+* 🚀 Сhallenging tasks
+
+#### I do not love:
+* 🕔 Long build time
+* 🍝 Bad architechture
+* 
 
 #### Recent projects:
 See pinned repos.
 
-#### Tools I familiar with (just pics, dont click them):
+#### Tools I familiar with:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat&logo=python&logoColor=yellow" /> 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat&logo=postgresql&logoColor=blue" /> 
@@ -33,7 +38,6 @@ See pinned repos.
 </p>
 
 ---  
-
 ![wndenis github stats](https://github-readme-stats.vercel.app/api?username=wndenis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)  
 
 
