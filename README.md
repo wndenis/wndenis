@@ -1,26 +1,25 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wndenis.wndenis)  
-My name is Denis, and I'm still working on filling out this page 🤔  
+My name is Denis `dəˈniːs or just Den`, and I'm still working on filling out this page 🤔  
 Gonna make something significant to make the world better.
 
 Briefly:  
-2020-2022 HSE, studying for a master's degree 🎓🎓  
+2020-2022 HSE, graduated master's degree 🎓🎓  
 2016-2020 RTU MIREA, bachelor degree 🎓  
 Participant of Guinness World Record event  
 
 #### I do love:
 * 🐍 Python
-* ☕ Kotlin
 * 🥽 VR
 * 🚀 Сhallenging tasks
 
 #### I do not love:
 * 🕔 Long build time
 * 🍝 Bad architechture
-* 
 
-#### Recent projects:
-See pinned repos.
+#### Recent projects:  
+There is no recent updates yet (going to push all of my stuff some day)☺️  
+If u want to get a bit outdated representation of me see pinned repos see pinned repos.
 
 #### Tools I familiar with:
 <p>
