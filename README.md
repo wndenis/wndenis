@@ -1,19 +1,22 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wndenis.wndenis)  
-My name is Denis `dəˈniːs or just Den`, and I'm still working on filling out this page 🤔  
+I'm Den, and I'm still working on filling out this page 🤔  
 Gonna make something significant to make the world better.
 
 Briefly:  
-2020-2022 HSE, graduated master's degree 🎓🎓  
+2022-now  HSE University, getting PhD in ML
+2020-2022 HSE University, graduated master's degree 🎓🎓  
 2016-2020 RTU MIREA, bachelor degree 🎓  
 Participant of Guinness World Record event  
 
 #### I do love:
+* 🧠 ML
 * 🐍 Python
 * 🥽 VR
 * 🚀 Сhallenging tasks
 
 #### I do not love:
+* 🧠 ML
 * 🕔 Long build time
 * 🍝 Bad architechture
 
