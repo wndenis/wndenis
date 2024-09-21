@@ -1,6 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wndenis.wndenis)  
-I'm Den, and I'm still working on filling out this page 🤔  
+I'm Denis, and I'm still working on filling out this page 🤔  
 Gonna make something significant to make the world better.
 
 Briefly:  
