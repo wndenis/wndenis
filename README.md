@@ -40,6 +40,7 @@ If u want to get a bit outdated representation of me see pinned repos see pinned
 </p>
 
 ---  
+<!--
 ![wndenis github stats](https://github-readme-stats.vercel.app/api?username=wndenis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)  
 
 
@@ -47,7 +48,7 @@ If u want to get a bit outdated representation of me see pinned repos see pinned
 
 
 
-<!--
+
 **wndenis/wndenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wndenis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
 Here are some ideas to get you started:
